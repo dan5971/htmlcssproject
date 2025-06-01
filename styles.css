@@ -1,0 +1,93 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: roboto;
+  scroll-behavior: smooth;
+  text-decoration: none;
+}
+
+body {
+  height: 100vh;
+  width: 100%;
+  background-color: #1f2937;
+  
+
+}
+
+
+header {
+  padding: 80px;
+  width: 100%;
+  height: 80px;
+  background-color: #1f2937;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 100px;
+}
+
+.logo {
+  font-size: 24px;
+  color: #f9faf8;
+}
+
+.hlink {
+  
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+.hright{
+  display: flex;
+  gap: 1rem;
+}
+
+.hero {
+  display: flex;
+  justify-content: ;
+  padding: 80px;
+  gap: 40px;
+
+}
+.heroh3 {
+  font-size: 48px;
+  color: #f9faf8;
+  font-weight: 900;
+}
+
+.herop {
+  font-size: 18px;
+  color: #e5e7eb;
+  margin-top: 20px;
+}
+
+.signup {
+  color: #f9faf8;
+  background-color:#3882f6 ;
+  padding: 0.6rem 2.2rem;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  font-size: 1rem;
+  margin-top: 20px;
+}
+
+.imgdiv {
+  flex: ;
+  width: 50vw;
+  height: ;
+  background-color: grey;
+  color: #f9faf8;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.2rem;
+  text-align: center;
+  user-select: none;
+}
+
+.awesome {
+  
+}
