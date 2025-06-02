@@ -88,6 +88,100 @@ header {
   user-select: none;
 }
 
+
 .awesome {
   
+}
+
+.bodyw {
+  background-color: #fafbfd;
+  padding: 40px;
+}
+
+.bodytitle {
+  color: #1f2937;
+  font-size: 36px;
+  font-weight: 900;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.box {
+
+  width: 100%;
+  aspect-ratio: 1/1;
+  border: 3px solid #3882f6;
+  border-radius: 8px;
+  
+ 
+}
+
+.boxhome {
+  display: flex;
+  padding: 20px;
+}
+
+.boxes {
+  display: ;
+  margin: 1rem;
+}
+
+.boxtext {
+  padding: 8px;
+  color: #1f2937;
+}
+
+.grey {
+  background-color: #e5e7eb;
+  padding: 80px;
+  
+}
+
+.thor {
+  text-align: right;
+}
+
+.white {
+  background-color: #fafbfd ;
+  padding: 40px;
+
+}
+
+.blue {
+  background-color: #3882f6 ;
+  border-radius: 8px;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.call {
+  color: #fafbfd;
+  font-weight: 500;
+}
+
+.callbelow {
+  color: #fafbfd;
+  font-size: 0.8rem;
+}
+
+.signupagain {
+  background-color: #3882f6;
+  color: #fafbfd;
+  border: 2px solid #fafbfd;
+  padding: 8px 20px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.foot {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.last {
+  color: #fafbfd;
 }
